@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0820"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F5B908D91EA8A15A00CBF624"
-               BuildableName = "testJSON4.app"
-               BlueprintName = "testJSON4"
-               ReferencedContainer = "container:testJSON4.xcodeproj">
+               BlueprintIdentifier = "25CCDCF5FB75F2901B43CE1F09845F3F"
+               BuildableName = "Pods_testJSON4.framework"
+               BlueprintName = "Pods-testJSON4"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F5B908D91EA8A15A00CBF624"
-            BuildableName = "testJSON4.app"
-            BlueprintName = "testJSON4"
-            ReferencedContainer = "container:testJSON4.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,23 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F5B908D91EA8A15A00CBF624"
-            BuildableName = "testJSON4.app"
-            BlueprintName = "testJSON4"
-            ReferencedContainer = "container:testJSON4.xcodeproj">
+            BlueprintIdentifier = "25CCDCF5FB75F2901B43CE1F09845F3F"
+            BuildableName = "Pods_testJSON4.framework"
+            BlueprintName = "Pods-testJSON4"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "OS_ACTIVITY_MODE"
-            value = "disable"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -77,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F5B908D91EA8A15A00CBF624"
-            BuildableName = "testJSON4.app"
-            BlueprintName = "testJSON4"
-            ReferencedContainer = "container:testJSON4.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
